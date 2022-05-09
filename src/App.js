@@ -11,9 +11,21 @@ function App() {
       <h3>Email:</h3>
       <p>BrandonJones8643@gmail.com</p>
       <h3>GitHub:</h3>
-      <a href="https://github.com/brandonjones8643">Link to GitHub</a>
+      <a
+        href="https://github.com/brandonjones8643"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
+        Link to GitHub
+      </a>
       <h3>Fiver:</h3>
-      <a href="https://www.fiverr.com/s2/57c3564e95">Link to Fiverr</a>
+      <a
+        href="https://www.fiverr.com/s2/57c3564e95"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
+        Link to Fiverr
+      </a>
       <h3>Technologies:</h3>
       <ul>
         <li>ReactJS</li>
