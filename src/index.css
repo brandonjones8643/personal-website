@@ -12,7 +12,8 @@ html {
 }
 .app {
   margin-left: 6%;
-  animation: slide 0.8s none 0s 1;
+  animation: slide 0.8s 0.5s 1;
+  animation-fill-mode: forwards;
 }
 img {
   height: 100px;
