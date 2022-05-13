@@ -34,7 +34,6 @@ function App() {
         <li>CSS</li>
         <li>NodeJS</li>
         <li>React Native</li>
-        <li>ElectronJS</li>
       </ul>
     </div>
   );
