@@ -23,7 +23,7 @@ function App() {
       </a>
       <h3>Example websites:</h3>
       <a
-        href="https://www.Licoffee017.netlify.app"
+        href="http://www.Licoffee017.netlify.app"
         target="_blank"
         rel="noreferrer noopener"
       >
@@ -31,7 +31,7 @@ function App() {
       </a>
       <br />
       <a
-        href="https://www.photogallery017.netlify.app"
+        href="http://www.photogallery017.netlify.app"
         target="_blank"
         rel="noreferrer noopener"
       >
