@@ -1,11 +1,7 @@
 function App() {
   return (
     <div className="app">
-      <div className="title-and-image-container">
-        <div className="title-and-image">
-          <h2>Brandon Jones</h2>
-        </div>
-      </div>
+      <h2 className="title">Brandon Jones</h2>
       <p className="description">Javascript Developer</p>
       <h3>Email:</h3>
       <p>BrandonJones8643@gmail.com</p>
