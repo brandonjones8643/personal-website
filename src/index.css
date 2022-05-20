@@ -11,25 +11,12 @@ html {
   box-shadow: inset 0 0 8px 3px rgb(180, 180, 170);
 }
 .app {
-  margin-left: 6%;
+  margin-left: -100%;
   animation: slide 0.8s 0.5s 1;
   animation-fill-mode: forwards;
 }
-img {
-  height: 100px;
-  width: 85px;
-  box-shadow: 0 0 6px 2px rgb(180, 180, 170);
-  border-radius: 5px;
-}
-.title-and-image-container {
-  display: flex;
-  align-items: baseline;
-  margin-top: 20px;
-}
-.title-and-image {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.title {
+  margin-top: 5%;
 }
 .description {
   margin-top: -10px;
