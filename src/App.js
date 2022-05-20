@@ -3,7 +3,6 @@ function App() {
     <div className="app">
       <div className="title-and-image-container">
         <div className="title-and-image">
-          <img src="img.jpg" alt="profileimage" />
           <h2>Brandon Jones</h2>
         </div>
       </div>
@@ -26,14 +25,28 @@ function App() {
       >
         Link to Fiverr
       </a>
+      <h3>Example websites:</h3>
+      <a
+        href="https://www.Licoffee017.netlify.app"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
+        Coffee Website
+      </a>
+      <br />
+      <a
+        href="https://www.photogallery017.netlify.app"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
+        Photo Gallery
+      </a>
       <h3>Technologies:</h3>
       <ul>
-        <li>ReactJS</li>
         <li>Javascript</li>
+        <li>React</li>
         <li>Html</li>
         <li>CSS</li>
-        <li>NodeJS</li>
-        <li>React Native</li>
       </ul>
     </div>
   );
