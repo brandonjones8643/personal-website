@@ -21,22 +21,13 @@ function App() {
       >
         Link to Fiverr
       </a>
-      <h3>Example websites:</h3>
-      <a
-        href="http://www.Licoffee017.netlify.app"
+      <h3>Upwork:</h3>
+      <a                  href="https://www.upwork.com/freelancers/~013cba20fb5831213a"
         target="_blank"
         rel="noreferrer noopener"
       >
-        Coffee Website
-      </a>
-      <br />
-      <a
-        href="http://www.photogallery017.netlify.app"
-        target="_blank"
-        rel="noreferrer noopener"
-      >
-        Photo Gallery
-      </a>
+        Link to Upwork
+      </a>    
       <h3>Technologies:</h3>
       <ul>
         <li>Javascript</li>
